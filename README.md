@@ -16,12 +16,8 @@ Navigate to the Brookfield Zoo website and complete the following steps below.  
 
 ## End Result
 
-Include each of the following steps above into a HTML document called lab2.html.  Export the wire-frames from AdobeXD as a image and include within the HTML document.  Steps 2 and 3 content should be formatted and structured within your HTML document.  Also, please include the AdobeXD (extension .xd) file within your folder structure when submitting your lab.
+Include each of the following steps above into a HTML document called lab2.html.  Export the wire-frames from AdobeXD as a image and include within the HTML document.  Steps 2 and 3 content should be formatted and structured within your HTML document.  Also, please include the AdobeXD (extension .xd) file within your lab2 folder structure when submitting your lab.
 
 ## Submission and Publishing your lab
 
-Your project folder will need to be submitted in 2 different ways.  You will need to submit this document to Canvas before the due date and time listed.  You will also need to upload this document via FTP to your play.dunwoody.edu user space in the directory called lab1.  Please include all images or files that may accompany your assignment within a hierarchical folder structure.  
-
-## Requirement 4 (Submission)
-
-Your project folder will need to be submitted in 2 different ways.  You will need to submit a zipped folder containing your sites files to canvas before the due date and time listed.  You will also need to upload this document via Github repository.   Please include all images or files that may accompany your assignment within a hierarchical folder structure.
+Your project folder will need to be submitted in 2 different ways.  You will need to submit a zipped folder containing your sites files to canvas before the due date and time listed.  You will also need to upload your lab to the Github repository you accepted.   Please include all images or files that may accompany your assignment within a hierarchical folder structure.
