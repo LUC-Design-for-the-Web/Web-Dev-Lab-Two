@@ -1,13 +1,16 @@
 ## Directions
 
-Navigate to the Brookfield Zoo website and complete the following steps below.  Make sure to validate, implement good coding practices and include the mandatory meta tags we discussed in class.
+For this lab, you practice creating a high-fidelity wireframe.  There are two tools that I advise you use to create your wireframe.  The two tools are listed below.
+ - Adobe XD *Loyola Students can request access to Adobe Creative suite tools which includes Adobe XD for free.
+ - Figma:  Figma.com
+You can select from 1 of 2 sites to create your wireframe.  Navigate to your preferred site and follow the steps below.  Make sure to validate, implement good coding practices and include the mandatory meta tags we discussed in class.
 
 ## Steps:
 
-1. **Wireframing:** Create a high-fidelity wire-frame of [Brookfield Zoo] (https://www.czs.org/Brookfield-ZOO/Home) homepage using Adobe XD.
+1. **Wireframing:** Create a high-fidelity wire-frame of the homepage of either AffyTapple.com or KrispyKreme.com.  
  - Prioritize the site's content by determining of how much space to allocate to a given item and where that item is located.
  - Visualize structure and formation of how content will be presented.
- - Use graphics and color scheme presented within the Brookfield Zoo website to craft your wire-frame.  Your wire-frame should look similar to the actual site.
+ - Use graphics and color scheme presented within the website to craft your wire-frame.  Your wire-frame should look similar to the actual site.  Consider using the browser developer tools to inspect and download images and resources to include in your wireframe.
 
 2.  **Accessibility:** Provide 2 specific recommendations for improving the accessibility of the site.  Consider using the WAVE accessibility tool to determine recommendations.  Your recommendations should be included as html content within the lab2.html document
 
