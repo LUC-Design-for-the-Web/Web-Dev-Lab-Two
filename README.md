@@ -1,8 +1,10 @@
 ## Directions
 
-For this lab, you practice creating a high-fidelity wireframe.  There are two tools that I advise you use to create your wireframe.  The two tools are listed below.
- - Adobe XD *Loyola Students can request access to Adobe Creative suite tools which includes Adobe XD for free.
- - Figma:  Figma.com
+For this lab, you will practice creating a high-fidelity wireframe and consider accessibility factors that impact design.  There are a few tools you will use for this lab.  Under the first bullet point, I list two popular industry standard wireframing tools you can select from to create your wireframe, and the second bullet point provides the URL to the WAVE accessibility tool that I advise you use to create your wireframe.  The two tools are listed below.
+ - Industry Standard Wireframing tools
+    - Adobe XD: 
+    - Figma: [https://www.figma.com](https://www.figma.com/)
+ - Web Accessibility Evaluation Tool: [https://wave.webaim.org](https://wave.webaim.org/)
 You can select from 1 of 2 sites to create your wireframe.  Navigate to your preferred site and follow the steps below.  Make sure to validate, implement good coding practices and include the mandatory meta tags we discussed in class.
 
 ## Steps:
