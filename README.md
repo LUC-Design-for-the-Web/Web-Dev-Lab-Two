@@ -10,7 +10,7 @@ Navigate to your preferred site and follow the steps below.  Make sure to valida
 
 ## Steps:
 
-1. **Wireframing:** Create a high-fidelity wire-frame of the homepage of either AffyTapple.com or KrispyKreme.com.  
+1. **Wireframing:** Create a high-fidelity wire-frame of the homepage of either [AffyTapple.com ](https://www.affytapple.com/)or [KrispyKreme.com](https://www.krispykreme.com/).  
  - Prioritize the site's content by determining of how much space to allocate to a given item and where that item is located.
  - Visualize structure and formation of how content will be presented.
  - Use graphics and color scheme presented within the website to craft your wire-frame.  Your wire-frame should look similar to the actual site.  Consider using the browser developer tools to inspect and download images and resources to include in your wireframe.
