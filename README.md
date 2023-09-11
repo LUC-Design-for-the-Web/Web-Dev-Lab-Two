@@ -1,11 +1,12 @@
 ## Directions
 
-For this lab, you will practice creating a high-fidelity wireframe and consider accessibility factors that impact design.  There are a few tools you will use for this lab.  Under the first bullet point, I list two popular industry standard wireframing tools you can select from to create your wireframe, and the second bullet point provides the URL to the WAVE accessibility tool that I advise you use to create your wireframe.  The two tools are listed below.
+For this lab, you will practice creating a high-fidelity wireframe and consider accessibility factors that impact design.  There are a few tools you will use for this lab.  Under the first bullet point, I list two popular industry standard wireframing tools you can select from to create your wireframe, and the second bullet point provides the URL to the WAVE accessibility tool you will use to run an accessibility audit.
  - Industry Standard Wireframing tools
-    - Adobe XD: 
-    - Figma: [https://www.figma.com](https://www.figma.com/)
+    - Figma: [https://www.figma.com](https://www.figma.com/)    
+    - Adobe XD: [URL to request Adobe Creative Suite from LUC which includes Adobe XD](https://www.luc.edu/its/services/loyolasoftware/softwareinstallationrequests/)
  - Web Accessibility Evaluation Tool: [https://wave.webaim.org](https://wave.webaim.org/)
-You can select from 1 of 2 sites to create your wireframe.  Navigate to your preferred site and follow the steps below.  Make sure to validate, implement good coding practices and include the mandatory meta tags we discussed in class.
+
+Navigate to your preferred site and follow the steps below.  Make sure to validate, implement good coding practices and include the mandatory meta tags we discussed in class.
 
 ## Steps:
 
@@ -14,12 +15,12 @@ You can select from 1 of 2 sites to create your wireframe.  Navigate to your pre
  - Visualize structure and formation of how content will be presented.
  - Use graphics and color scheme presented within the website to craft your wire-frame.  Your wire-frame should look similar to the actual site.  Consider using the browser developer tools to inspect and download images and resources to include in your wireframe.
 
-2.  **Accessibility:** Provide 2 specific recommendations for improving the accessibility of the site.  Consider using the WAVE accessibility tool to determine recommendations.  Your recommendations should be included as html content within the lab2.html document
+2.  **Accessibility:** Provide 2 specific recommendations for improving the accessibility of the site.  Consider using the WAVE accessibility tool to determine recommendations.  Your recommendations should identify which [WCAG guideline](https://www.w3.org/WAI/WCAG21/quickref/) should be considered and provide both the number and level of guideline.   Document your information within the lab2.html document
 
 
 ## End Result
 
-Include each of the following steps above into a HTML document called lab2.html.  Export the wire-frames from AdobeXD as a image and include within the HTML document using an image tag.  Step 2 content should be formatted and structured within your HTML document.  Also, please include the AdobeXD (extension .xd) file within your lab2 folder structure when submitting your lab.
+Include each of the following steps above into a HTML document called lab2.html.  Export the wire-frames as a image and include within the HTML document using an image tag.  Step 2 content should be formatted and structured within your HTML document.  Also, please include the original creation file for either Figma or Adobe XD within your lab2 folder structure when submitting your lab.
 
 ## Submission and Publishing your lab
 
